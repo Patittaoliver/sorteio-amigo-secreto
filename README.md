@@ -19,4 +19,10 @@ Este é um projeto web desenvolvido para facilitar a brincadeira de Amigo Secret
 - **CSS**: Design estilizado e responsivo, incluindo integração com Google Fonts.
 - **JavaScript**: Lógica para adição de nomes e realização do sorteio.
 
-
+![Home do projeto](assets/home-amigo-secreto.png)
+![Aviso](assets/aviso-sorteio.png)
+![Primeiro amigo](assets/inserindo-primeiro-nome.png)
+![Lista primeiro nome inserido](assets/lista-nome-inserido1.png)
+![Segundo amigo](assets/inserindo-segundo-nome.png)
+![Terceiro amigo](assets/inserindo-terceiro-nome.png)
+![Nome sorteado](assets/amigo-sorteado.png)
