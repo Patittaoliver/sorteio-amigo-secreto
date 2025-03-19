@@ -1,5 +1,5 @@
 # sorteio-amigo-secreto
-Projeto desenvolvido no curso de HTML e CSS da Alura, no Programa One Oracle Next Education.
+Projeto desenvolvido no curso de HTML e CSS da Alura, no Programa One Oracle Next Education, Turma G8 - ONE, em parceria com It For Girls.
 
 # Amigo Secreto
 
